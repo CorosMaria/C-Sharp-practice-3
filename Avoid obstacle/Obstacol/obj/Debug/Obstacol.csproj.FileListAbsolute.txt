@@ -1,0 +1,33 @@
+D:\MARIA\Visual Studio 2008\Projects\Obstacol\Obstacol\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Visual Studio 2008\Projects\Obstacol\Obstacol\obj\Debug\Obstacol.Form1.resources
+D:\MARIA\Visual Studio 2008\Projects\Obstacol\Obstacol\obj\Debug\Obstacol.Properties.Resources.resources
+D:\MARIA\Visual Studio 2008\Projects\Obstacol\Obstacol\obj\Debug\Obstacol.csproj.GenerateResource.Cache
+D:\MARIA\Visual Studio 2008\Projects\Obstacol\Obstacol\bin\Debug\Obstacol.exe
+D:\MARIA\Visual Studio 2008\Projects\Obstacol\Obstacol\bin\Debug\Obstacol.pdb
+D:\MARIA\Visual Studio 2008\Projects\Obstacol\Obstacol\obj\Debug\Obstacol.exe
+D:\MARIA\Visual Studio 2008\Projects\Obstacol\Obstacol\obj\Debug\Obstacol.pdb
+D:\MARIA\Visual Studio 2008\Projects\4 A patra tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.exe
+D:\MARIA\Visual Studio 2008\Projects\4 A patra tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.pdb
+D:\MARIA\Visual Studio 2008\Projects\4 A patra tema programre -  Obstacol\Obstacol\bin\Debug\Obstacol.exe
+D:\MARIA\Visual Studio 2008\Projects\4 A patra tema programre -  Obstacol\Obstacol\bin\Debug\Obstacol.pdb
+D:\MARIA\Visual Studio 2008\Projects\4 A patra tema programre -  Obstacol\Obstacol\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Visual Studio 2008\Projects\4 A patra tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.Form1.resources
+D:\MARIA\Visual Studio 2008\Projects\4 A patra tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.Properties.Resources.resources
+D:\MARIA\Visual Studio 2008\Projects\4 A patra tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.csproj.GenerateResource.Cache
+D:\MARIA\Programare\5 A cincea tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.exe
+D:\MARIA\Programare\5 A cincea tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.pdb
+D:\MARIA\Programare\5 A cincea tema programre -  Obstacol\Obstacol\bin\Debug\Obstacol.exe
+D:\MARIA\Programare\5 A cincea tema programre -  Obstacol\Obstacol\bin\Debug\Obstacol.pdb
+D:\MARIA\Programare\5 A cincea tema programre -  Obstacol\Obstacol\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\5 A cincea tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.Form1.resources
+D:\MARIA\Programare\5 A cincea tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.Properties.Resources.resources
+D:\MARIA\Programare\5 A cincea tema programre -  Obstacol\Obstacol\obj\Debug\Obstacol.csproj.GenerateResource.Cache
+E:\Mini Aplicatii CSharp\Tema 5 - Obstacol\Obstacol\bin\Debug\Obstacol.exe
+E:\Mini Aplicatii CSharp\Tema 5 - Obstacol\Obstacol\bin\Debug\Obstacol.pdb
+E:\Mini Aplicatii CSharp\Tema 5 - Obstacol\Obstacol\obj\Debug\Obstacol.csprojAssemblyReference.cache
+E:\Mini Aplicatii CSharp\Tema 5 - Obstacol\Obstacol\obj\Debug\Obstacol.Form1.resources
+E:\Mini Aplicatii CSharp\Tema 5 - Obstacol\Obstacol\obj\Debug\Obstacol.Properties.Resources.resources
+E:\Mini Aplicatii CSharp\Tema 5 - Obstacol\Obstacol\obj\Debug\Obstacol.csproj.GenerateResource.cache
+E:\Mini Aplicatii CSharp\Tema 5 - Obstacol\Obstacol\obj\Debug\Obstacol.csproj.CoreCompileInputs.cache
+E:\Mini Aplicatii CSharp\Tema 5 - Obstacol\Obstacol\obj\Debug\Obstacol.exe
+E:\Mini Aplicatii CSharp\Tema 5 - Obstacol\Obstacol\obj\Debug\Obstacol.pdb
